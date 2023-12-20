@@ -10,7 +10,7 @@ import './HeroSection.css'
 
 function HeroSection() {
     return (
-        <>
+        <div className="div1 background gradient-three-shades">
             <h1 className='heading1'>Web3Makr Redefining</h1>
             <h1>How You Create</h1>
 
@@ -24,7 +24,7 @@ function HeroSection() {
             <div className='mockup'>
                 <img src={mockup}></img>
             </div>
-        </>
+        </div>
     );
 }
 
