@@ -1,0 +1,23 @@
+.heading1 {
+    margin-top: 50px;
+    font-size: 90px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 90px;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+.playbtn {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.mockup {
+    text-align: center;
+}
